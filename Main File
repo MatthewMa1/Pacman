@@ -1,1 +1,11 @@
+import becker.robots.*; 
 
+public class Pacman extends RobotRC {
+    
+    public Pacman( City c, int s, int a, Direction d, int n ) {
+        super( c, s, a, d, n );
+    }
+    
+    
+
+}
